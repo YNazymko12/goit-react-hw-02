@@ -1,0 +1,13 @@
+.title {
+  margin-bottom: 48px;
+  font-size: 64px;
+  font-weight: bold;
+  color: rgb(17, 56, 27);
+  text-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+}
+
+.text {
+  margin-bottom: 48px;
+  font-size: 20px;
+  color: rgb(13, 40, 20);
+}
